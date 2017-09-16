@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drt_Orientation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+<string name="sensor_info">Orientation sensor information !</string>
+<string name="up_down">手机顶部或尾部翘起的角度：</string>
+<string name="left_right">手机左侧或右侧翘起的角度：</string>
+</resources>
